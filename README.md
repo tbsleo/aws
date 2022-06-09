@@ -1,3 +1,5 @@
+3年没回来看看它了，退圈好久了。我手上现在没有lightsail的机子，而且屌鸡的tcp检测网站也关停了。看到tcp.ping.pe更新了tcp检测，有了让这个脚本复活的想法，慢慢更吧。
+
 # CloudFlare_DDNS_Setter
 [![Build Status](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang-script/CloudFlare_DNS_Record)
 [![language](https://github.com/nanqinlang/SVG/blob/master/language-shell-blue.svg)](https://github.com/nanqinlang-script/CloudFlare_DNS_Record)
